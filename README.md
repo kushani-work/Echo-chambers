@@ -5,10 +5,10 @@ This repository contains data of a user reply network, built based on English la
 English language tweets related to Russian-Ukrainian war, were collected using a keyword search for the period 1st–31st of August, 2022. The stance of each tweet is labelled as pro-Russian, pro-Ukrainian or neutral. The user's stance is decided based on the stance of the tweets sent by them.
 
 # Data Files
-(1) replyTweets_8-2022.csv
-(2) suspendUserReplies_8-2022.csv
-(3) userReplies_8-2022.csv - Conta
-(4) userRepliesNoSelf_8-2022.csv
+(1) replyTweets_8-2022.csv - Contains data on reply tweets between users. Each row corresponds to a reply tweet and contains the userIDs of the sender and the receiver of the reply tweet.
+(2) suspendUserReplies_8-2022.csv - Contains data on user interactions (reply tweets) with suspended users. 
+(3) userReplies_8-2022.csv - Contains data on reply tweet counts between user pairs.
+(4) userRepliesNoSelf_8-2022.csv - Contains data on reply tweet counts between user pairs after removing self replies (The users commenting to his/her own tweet).
 
 # Data Fields
 Following is the description of the data fields (column names) in the data files
