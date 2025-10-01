@@ -19,6 +19,7 @@ Following is the description of the data fields (column names) in the data files
 (1) replyTweets_8-2022.csv
 
 SourceUserID: Unique ID of the user who is the author of the parent tweet 
+
 ReplyUserID: Unique ID of the user who is the author of the reply tweet 
 
 (2) suspendUserReplies_8-2022.csv
@@ -77,10 +78,16 @@ If you use any of the datasets, please cite the following paper.
 Perera, Kushani, and Shanika Karunasekera. "Quantifying opinion rejection: A method to detect social media echo chambers." Pacific-Asia Conference on Knowledge Discovery and Data Mining. Singapore: Springer Nature Singapore, 2024.
 
 @inproceedings{perera2024quantifying,
+
   title={Quantifying opinion rejection: A method to detect social media echo chambers},
+  
   author={Perera, Kushani and Karunasekera, Shanika},
+  
   booktitle={Pacific-Asia Conference on Knowledge Discovery and Data Mining},
+  
   pages={57--69},
+  
   year={2024},
+  
   organization={Springer}
 }
