@@ -80,14 +80,10 @@ Perera, Kushani, and Shanika Karunasekera. "Quantifying opinion rejection: A met
 @inproceedings{perera2024quantifying,
 
   title={Quantifying opinion rejection: A method to detect social media echo chambers},
-  
   author={Perera, Kushani and Karunasekera, Shanika},
-  
   booktitle={Pacific-Asia Conference on Knowledge Discovery and Data Mining},
-  
   pages={57--69},
-  
   year={2024},
-  
   organization={Springer}
+  
 }
