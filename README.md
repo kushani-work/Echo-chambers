@@ -78,7 +78,6 @@ If you use any of the datasets, please cite the following paper.
 Perera, Kushani, and Shanika Karunasekera. "Quantifying opinion rejection: A method to detect social media echo chambers." Pacific-Asia Conference on Knowledge Discovery and Data Mining. Singapore: Springer Nature Singapore, 2024.
 
 @inproceedings{perera2024quantifying,
-
   title={Quantifying opinion rejection: A method to detect social media echo chambers},
   author={Perera, Kushani and Karunasekera, Shanika},
   booktitle={Pacific-Asia Conference on Knowledge Discovery and Data Mining},
