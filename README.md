@@ -1,8 +1,8 @@
 # Echo-chambers
-This repository contains data of a user reply network, built based on English language tweets related to Russian-Ukrainian war. This is the Russian-Ukrainian dataset used for the experiments in the paper, "Perera, Kushani, and Shanika Karunasekera. "Quantifying opinion rejection: A method to detect social media echo chambers." Pacific-Asia Conference on Knowledge Discovery and Data Mining. Singapore: Springer Nature Singapore, 2024".
+This repository contains data of a user reply network, built based on English language tweets related to Russian-Ukrainian war. This is the Russian-Ukrainian dataset used for the experiments in the paper to be cited, whic is mentioned below.
 
-# Data collection
-English language tweets related to Russian-Ukrainian war, were collected using a keyword search for the period 1st–31st of August, 2022. The stance of each tweet is labelled as pro-Russian, pro-Ukrainian or neutral. The user's stance is decided based on the stance of the tweets sent by them.
+# Applications
+This dataset can be used by the researchers involved in community detection and echo chamber detection in social networks to evaluate the communities detected by in their research work. It can be also used for other relevant research areas such as analysing  and simulating user behvaiour patternsand information propagation patterns of propagation of  in social networks.
 
 # Data Files
 (1) replyTweets_8-2022.csv - Contains data on reply tweets between users. Each row corresponds to a reply tweet and contains the userIDs of the sender and the receiver of the reply tweet.
